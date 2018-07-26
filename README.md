@@ -6,9 +6,10 @@
 
 ### [Demo](https://82oyo4m128.codesandbox.io/)
 
-### Submission Requirements
+## Submission Requirements
 
-*Show us how you would you design or build a Empty State Screen that either for Web, Mac, Android or iOS. We ask you to upload your submission and submit your Dribbble shot, Github repo, CodePen, etc.**
+- Show us how you would you design or build a Empty State Screen that either for Web, Mac, Android or iOS.
+- We ask you to upload your submission and submit your Dribbble shot, Github repo, CodePen, etc.
 
 **Please, make sure that**:
 
